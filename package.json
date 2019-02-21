@@ -1,0 +1,23 @@
+{
+  "name": "encryptfiles",
+  "version": "1.0.0",
+  "description": "https://www.quora.com/What-is-the-most-convenient-way-to-encrypt-video-files-via-Node-js-AES\r https://www.npmjs.com/package/file-encryptor",
+  "main": "decrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplygamedev/EncryptFiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplygamedev/EncryptFiles/issues"
+  },
+  "homepage": "https://github.com/simplygamedev/EncryptFiles#readme",
+  "dependencies": {
+    "file-encryptor": "^0.1.1",
+    "tmp": "0.0.33"
+  }
+}
